@@ -1,1 +1,3 @@
-# Prayer-Time-Mobile
+# prayer_times
+
+A new Flutter project.
