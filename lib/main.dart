@@ -41,7 +41,7 @@ class _PrayerTimesWeatherScreenState extends State<PrayerTimesWeatherScreen> {
   bool isLoadingWeather = true;
   late Timer _timer;
   final String apiKey =
-      'd10bd5d398ebda3ba67463f8e85785e5'; // Your OpenWeatherMap API key
+      'openWeatherMapApi'; // Your OpenWeatherMap API key d10bd5d398ebda3ba67463f8e85785e5
   final String cityName = 'Mostaganem';
   String gregorianDate = '';
   String hijriDate = '';
